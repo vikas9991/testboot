@@ -96,3 +96,14 @@ h2 {
     width: 15%;
     margin: 20px 20px 50px;
 }
+
+/* pricing */
+#pricing
+{
+    text-align: center;
+    padding: 3% 10%;
+}
+.card
+{
+    margin: 5%;
+}
