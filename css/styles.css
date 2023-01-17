@@ -111,3 +111,15 @@ h2 {
 .card {
     margin: 5%;
 }
+
+
+@media (max-width: 1030px) {
+    .title-iphone-image {
+        position: static;
+        transform: rotate(0);
+        width: 60%;
+    }
+    #title {
+        text-align: center;
+    }
+}
